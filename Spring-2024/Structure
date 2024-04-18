@@ -1,0 +1,27 @@
+What we will not be doing:
+Prompt Engineering ChatGPT
+Data Visualisation as an end goal
+Learning ML in 21 days
+Deciding on format:
+Lesson-oriented (mixed with small programming activities)
+Gazillion resources: 
+https://stanford-cs329s.github.io/syllabus.html
+https://deeplearning.neuromatch.io/tutorials/intro.html 
+https://github.com/louisfb01/start-machine-learning?hss_channel=tw-1318985240 
+https://kuleshov-group.github.io/aml-book/intro.html
+https://statsthinking21.github.io/statsthinking21-core-site/  
+https://aman.ai/watch/ 
+https://roadmap.sh/ai-data-scientist 
+Programming Activites: 
+Smaller Kaggle Competitions: https://www.kaggle.com/competitions?hostSegmentIdFilter=5 
+Quick code activities which are less code-heavy
+Models: https://huggingface.co/ 
+Discussing research papers (might be able to get a PhD student to drop in)
+Programming oriented (start with a lesson, but towards a semester long project, that will have to be decided early on)
+<Need to shortlist topics>
+
+Language: Python
+Environment: Google Collab / Github [https://bebi103a.github.io/lessons/02/git_with_colab.html#:~:text=Google%20Colab%20has%20convenient%20Git,leaving%20Colab%20in%20your%20browser]
+
+PyTorch (better for smaller scale compared to TensorFlow)
+Want to understand ML Systems Design more? https://stanford-cs329s.github.io/syllabus.html 
