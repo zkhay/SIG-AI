@@ -1,0 +1,6 @@
+'''
+Neuralangelo Team:
+
+Yashi Shandilya
+
+'''
