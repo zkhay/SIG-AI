@@ -1,5 +1,4 @@
 print("These are the names of fans of Yashi Shandilya.")
-print("Samuel Stuckey")
 print("Shaurya Iyer")
 print("Rahul Gowda")
 print("Alex Stanson")
